@@ -2,9 +2,10 @@
 
 Built on ESP32 Lolin
 
-Two buttons on pins 12, 14, 
-Encoder push button on pin 25 
-Encoder on 33, 32
+- Oled Screen on I2S 1
+- Two buttons on pins 12, 14, 
+- Encoder push button on pin 25 
+- Encoder on 33, 32
 
 32 Steps sequencer with Oled screen
 - Serial MIDI Input on pin 16
