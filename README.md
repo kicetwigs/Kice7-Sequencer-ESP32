@@ -13,11 +13,13 @@ Built on ESP32 Lolin
 - Serial MIDI Out on pin 17
 
 While in Play mode
-Button 1 : Play / Stop
-Butotn 2 : Undefined 
+- Button 1 : Play / Stop
+- Butotn 2 : Undefined
+- Encoder turning changes BPM
 
 While in Record mode
-Button 1 : Live record
-Button 2 : Add a blank step
+- Button 1 : Live record
+- Button 2 : Add a blank step
+- Encoder turning changes Current Step
 
 Encoder button toggle between Playing mode and Recording mode
