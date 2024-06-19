@@ -1,6 +1,7 @@
 /*
-Kice7 Sequencer
-©2024
+ * Author : Kevin Laurenson
+ * Name : Kice7 Sequencer
+ * Update : 2024-06-19
 */
 
 #include <MIDI.h>
